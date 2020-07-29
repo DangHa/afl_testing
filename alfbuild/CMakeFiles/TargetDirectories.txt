@@ -1,3 +1,0 @@
-/home/one_miracle/workspace/cpp/demo-afl/alfbuild/CMakeFiles/rebuild_cache.dir
-/home/one_miracle/workspace/cpp/demo-afl/alfbuild/CMakeFiles/edit_cache.dir
-/home/one_miracle/workspace/cpp/demo-afl/alfbuild/CMakeFiles/demo-afl.dir
